@@ -40,8 +40,8 @@ IGuiPage
 	}
 	IGuiGraphicTextButton
 	{
-		id: q486539319
-		objId: 486539319
+		id: q486539317
+		objId: 486539317
 		x: 8
 		y: 64
 		width: 120
